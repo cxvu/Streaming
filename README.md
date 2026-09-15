@@ -97,5 +97,5 @@ Your token is now in your clipboard.
 
 ## Credits
 
-Made by **Natan** — [discord.gg/HbbnwFrgTf](https://discord.gg/HbbnwFrgTf)
+Made by **Natan** — [Discord Server](https://discord.gg/HbbnwFrgTf)
 
