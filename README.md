@@ -1,4 +1,4 @@
-# Discord Stream Bot
+# DISCORD STREAM BOT
 
 Stream any video into a Discord voice channel 24/7, automatically looping.
 
